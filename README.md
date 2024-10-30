@@ -1,6 +1,5 @@
 
- <img align="center" width="1000" height="300" align="center" width=auto height=auto src="https://github-production-user-asset-6210df.s3.amazonaws.com/80894923/378214147-7b3bd164-86f8-47ab-947c-2a05d0c615fe.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241020T175705Z&X-Amz-Expires=300&X-Amz-Signature=a0f3cbad72c4b998240445897714ed178957bf05d44fe3cbf9ab9a271d6510bb&X-Amz-SignedHeaders=host" alt="Miguel Guimarey Lesmes banner">
-
+<img align="center" width="1000" height="300" align="center" width=auto height=auto src="https://repository-images.githubusercontent.com/875725147/292d038d-f874-4ce8-99af-185fc9ad7981">
 <h1 align="center">Hi 👋, I'm Miguel Guimarey Lesmes</h1>
 <h3 align="center">A Software Engineer with a passion for Big Data and AI</h3>
 
